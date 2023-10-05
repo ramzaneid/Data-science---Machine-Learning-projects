@@ -1,4 +1,4 @@
 # Data-science---Machine-Learning-projects
 Data Science path for the projects
-<Br>
+<br>
 Author - Mubeen Mohammed
